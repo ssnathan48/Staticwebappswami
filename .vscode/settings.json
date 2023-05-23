@@ -1,0 +1,10 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/57b3288b-37d7-4b6d-ada7-1dee5e5bac60/resourceGroups/learn-10e2b7b1-7c7e-4723-b931-e788feaf76cb/providers/Microsoft.Web/sites/diffdash-windows-app-swami",
+    "appService.deploySubpath": "dist",
+    "launch": {
+
+
+      "configurations": [],
+      "compounds": []
+    }
+}
